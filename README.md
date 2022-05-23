@@ -1,7 +1,7 @@
 The program contains a perceptron training method, a perceptron testing method, a method for plotting the error rate per iteration in the training that is called by the trainer, and a main method.
 
 The program first asks the user to enter the number of one the operations he wants, which are:
-	1-Call the perceptron trainer and then plot the error ration.
+    1-Call the perceptron trainer and then plot the error ration.
 	2-Call the perceptron tester to test it on unseen data.
 	3-Exit the program.
 
